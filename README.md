@@ -33,20 +33,19 @@ ZHAD0 is a ZK-powered privacy middleware for autonomous AI agents on Base L2.
 Agent Intent
     │
     ▼
-AES-256-GCM Encryption (client-side)
+AES-256-GCM Encryption (client-side)   ← LIVE
     │
     ▼
-RISC Zero ZK Proof of Intent Validity
+RISC Zero ZK Proof of Intent Validity  ← mainnet pending
     │
     ▼
-Ghost Relay Network (threshold 2-of-3)
+Ghost Relay Network (threshold 2-of-3) ← mainnet pending
     │
     ▼
 Base L2 Execution
 ```
 
-**Status:** Design Preview. Client-side encryption is live. ZK proofs and
-Ghost Relay network are simulated pending mainnet launch.
+**Encryption is live.** ZK proofs and Ghost Relay network are simulated pending mainnet launch.
 
 ---
 
@@ -57,6 +56,8 @@ Ghost Relay network are simulated pending mainnet launch.
 | [`zhad0/zhad0-app`](https://github.com/zhad0/zhad0-app) | React web app |
 | [`zhad0/zhad0-sdk`](https://github.com/zhad0/zhad0-sdk) | TypeScript SDK + CLI |
 | [`zhad0/zhad0-api`](https://github.com/zhad0/zhad0-api) | API server |
+| [`zhad0/zhad0-eliza`](https://github.com/zhad0/zhad0-eliza) | ElizaOS plugin |
+| [`zhad0/zhad0-virtuals`](https://github.com/zhad0/zhad0-virtuals) | Virtuals Protocol adapter |
 
 ---
 
