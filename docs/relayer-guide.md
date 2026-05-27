@@ -48,7 +48,11 @@ Based on projected v1 network volume:
 
 ### Step 1 — Clone and Install
 
+> The `zhad0-relayer` repository will be published at launch.
+> Follow [github.com/zhad0](https://github.com/zhad0) to be notified.
+
 ```bash
+# available at launch:
 git clone https://github.com/zhad0/zhad0-relayer
 cd zhad0-relayer
 npm install
