@@ -86,7 +86,7 @@ ZHAD0 uses Distributed Key Generation (DKG) over BLS12-381 to establish a thresh
 
 **Can I integrate ZHAD0 with Virtuals Protocol or Eliza today?**
 
-Not yet. Virtuals, Eliza, and Coinbase AgentKit are planned integration targets for SDK v1 (roadmap: Q4 2026). The current `@zhad0/sdk` package is a design preview — it ships real client-side AES-256-GCM encryption and the `wrapAgent()` API surface, but ZK proofs and relayer submission are simulated until the Ghost Relay network is live on Base.
+Not yet. Virtuals, Eliza, and Coinbase AgentKit are planned integration targets for SDK v1 (roadmap: Q4 2026). The current `@zhad0/sdk` package is a live — it ships real client-side AES-256-GCM encryption and the `wrapAgent()` API surface, but ZK proofs and relayer submission are simulated until the Ghost Relay network is live on Base.
 
 ---
 

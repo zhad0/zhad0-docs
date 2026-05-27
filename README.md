@@ -1,6 +1,6 @@
 # ZHAD0 Protocol — Documentation
 
-[![Status](https://img.shields.io/badge/status-design__preview-ff3d8a.svg)](https://zhad0.io)
+[![Status](https://img.shields.io/badge/status-live-00d26a.svg)](https://zhad0.io)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > Official documentation for the ZHAD0 Protocol — zero-knowledge privacy middleware

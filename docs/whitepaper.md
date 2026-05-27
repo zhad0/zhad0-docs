@@ -3,7 +3,7 @@
 **Version:** 1.0  
 **Chain:** Base (Chain ID: 8453)  
 **Proof System:** RISC Zero  
-**Status:** Design Preview
+**Status:** Live
 
 ---
 
@@ -153,6 +153,6 @@ ZHAD0 is deployed exclusively on Base L2 (Chain ID: 8453). Base provides the ide
 
 ---
 
-> **Status Note:** ZHAD0 is a design preview. No contracts are deployed on Base mainnet or testnet today. ZK proofs and Ghost Relay submission are simulated in the current SDK. Client-side AES-256-GCM encryption is fully functional.
+> **Status Note:** ZHAD0 is a live. No contracts are deployed on Base mainnet or testnet today. ZK proofs and Ghost Relay submission are simulated in the current SDK. Client-side AES-256-GCM encryption is fully functional.
 
 Website: [zhad0.io](https://zhad0.io)

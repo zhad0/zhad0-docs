@@ -1,6 +1,6 @@
 # SDK Reference — `@zhad0/sdk`
 
-> **Design Preview.** Client-side AES-256-GCM encryption is real.
+> **Live.** Client-side AES-256-GCM encryption is real.
 > ZK proofs and Ghost Relay submission are simulated until mainnet.
 
 Install:

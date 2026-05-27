@@ -149,6 +149,6 @@ zhad0 simulate intent.json --pretty
 
 ---
 
-> **Design Preview Note:** `submitIntent` currently returns a simulated receipt.
+> **Live Note:** `submitIntent` currently returns a simulated receipt.
 > Ghost Relay submission and Base execution are not yet live.
 > Track progress at [zhad0.io](https://zhad0.io).
